@@ -1,6 +1,6 @@
 # Semana Academica
  Repositório para guardar documentos da semana acadêmica
- Aqui eu encontro:
+ Aqui eu vou encontrar:
  - Jogo feito na pequi jam
  - Certificados
  - Anotações das palestras
